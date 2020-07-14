@@ -15,7 +15,7 @@ CineHome is a Revolutionary application in the entertainment genre. It allows yo
 
 # This is our demo application with first phase of development. Few things can not be explained until you experience it on your own ...... VR is one of them ......
 
-## Sneak-Peak Images of our Images 
+## Sneak-Peak Images of our application : 
 
 ![alt text](https://github.com/Mritunjaysri01/CineHome/blob/master/images/MainScreen.jpeg)
 ![alt text](https://github.com/Mritunjaysri01/CineHome/blob/master/images/BrowseScreen.jpeg)
