@@ -20,3 +20,5 @@ CineHome is a Revolutionary application in the entertainment genre. It allows yo
 ![alt text](https://github.com/Mritunjaysri01/CineHome/blob/master/images/MainScreen.jpeg)
 ![alt text](https://github.com/Mritunjaysri01/CineHome/blob/master/images/BrowseScreen.jpeg)
 ![alt text](https://github.com/Mritunjaysri01/CineHome/blob/master/images/MovieScreen.jpeg)
+
+### https://play.google.com/store/apps/details?id=com.Novelty.CineHome
